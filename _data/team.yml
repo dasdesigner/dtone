@@ -1,0 +1,8 @@
+- image: team-1.jpg
+  time: .5s
+- image: team-2.jpg
+  time: 1s
+- image: team-3.jpg
+  time: 1.5s
+- image: team-4.jpg
+  time: 2s

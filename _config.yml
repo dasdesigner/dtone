@@ -1,0 +1,25 @@
+
+
+# Build settings
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - Gruntfile.js
+
+sass:
+    sass_dir: _sass
+    # style: compressed
+
+
+collections:
+  docs:
+    output: true
+  portfolio:
+    output: true
+    baseurl: portfolio/
+    
+    
+baseurl:

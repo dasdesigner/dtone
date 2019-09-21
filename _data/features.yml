@@ -1,0 +1,42 @@
+- name:  Simple Design 
+  icon:  icon-graduation
+  time: .2s
+
+- name:  Simple Design 
+  icon:  icon-badge 
+  time: .4s
+
+- name:  Simple Design 
+  icon:  icon-book-open
+  time: .6s
+
+- name:  Simple Design 
+  icon:  icon-grid
+  time: .8s
+
+- name:  Simple Design 
+  icon:  icon-like
+  time: 1s
+
+- name:  Simple Design 
+  icon:  icon-layers 
+  time: 1.2s
+
+- name:  Simple Design 
+  icon:  icon-fire
+  time: 1.4s
+  
+- name:  Simple Design 
+  icon:  icon-cup
+  time: 1.6s
+
+  
+- name:  Simple Design 
+  icon:  icon-rocket
+  time: 1.8s
+  
+- name:  Simple Design 
+  icon:  icon-calendar
+  time: 2s
+
+ 

@@ -1,0 +1,15 @@
+{
+  "short_name": "Mobi",
+  "name": "Mobingi",
+  "icons": [
+    {
+      "src": "images/favicon.ico",
+      "type": "image/icon",
+      "sizes": "192x192"
+    } 
+  ],
+  "start_url": "/",
+  "background_color": "#fff",
+  "display": "standalone",
+  "theme_color": "#319BB6"
+}
